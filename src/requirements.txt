@@ -1,0 +1,20 @@
+# PANDAS
+pandas
+
+# NUMPY
+numpy
+scipy
+matplotlib
+ipython
+jupyter
+sympy
+nose
+
+# SCIKIT-LEARN
+scikit-learn
+
+# TENSORFLOW
+tensorflow
+
+# KERAS
+keras
